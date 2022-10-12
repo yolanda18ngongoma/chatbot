@@ -1,0 +1,16 @@
+WHAT IS A CHATBOT?
+-A chatbot or chatterbot is a software application used to conduct an on-line chat conversation via text or text-to-speech, 
+in lieu of providing direct contact with a live human agent.
+-it is a type of software that can help customers by automating conversations and interact with them through messaging platforms.
+
+APPLICATION OF CHATBOTS:
+     -Messaging Apps(even on SMS)
+     -Company Internal Platforms(e.g Customer Support): companies use online assistants  
+                                                       instead of human call centers
+     -Healthcare: chatbots would be useful for setting up appointments,
+                  locating health clinics, or providing medication information.
+
+WHAT IS MY CHATBOT FOR?
+- Codetelligence
+- it will provide end-users or perhaps people visiting our website with a choice to ask questions about the bootcamp without having to come on-site
+- having a chatbot instead of calling in is advantageous as a chatbot doesn't have closing hours
